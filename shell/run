@@ -1,0 +1,2 @@
+#!/bin/bash
+mono ~/Documents/run/run/bin/Debug/run.exe $@
